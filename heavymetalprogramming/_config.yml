@@ -26,7 +26,7 @@ github_username:  heavymetalprogramming
 linkedin_username: ravi-talati-a8085a18b
 
 # Build settings
-theme: uno
+theme: jekyll-uno-timeline
 plugins:
   - jekyll-feed
 
